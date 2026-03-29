@@ -203,4 +203,4 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Author - Saksham Katiyar
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate.
